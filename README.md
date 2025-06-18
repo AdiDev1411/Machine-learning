@@ -62,8 +62,3 @@ This repo is a personal log of my journey learning Machine Learning. It serves b
 If you find any errors or have suggestions, feel free to raise an issue or open a pull request! I'd love to collaborate and improve this learning resource.
 
 ---
-
-## 📜 License
-
-This project is licensed under the MIT License — feel free to use, modify, and share!
-
